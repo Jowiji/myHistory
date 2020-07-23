@@ -8,6 +8,7 @@ bingo bum
 chaka lakka
 sadasd
 
+<<<<<<< HEAD
 sadsadasdasd
 asdasdadadas
 
@@ -16,3 +17,5 @@ asdasdadadas
 
 sadsadasdasd
 asdasdadadas
+=======
+>>>>>>> parent of 91a9072... "add new commit"
